@@ -1,0 +1,12 @@
+D:\RimWorld\Mods\electricwiretrap\Assemblies\Debug\net8.0\TrapWired.deps.json
+D:\RimWorld\Mods\electricwiretrap\Assemblies\Debug\net8.0\TrapWired.dll
+D:\RimWorld\Mods\electricwiretrap\Assemblies\Debug\net8.0\TrapWired.pdb
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net8.0\TrapWired.csproj.AssemblyReference.cache
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net8.0\TrapWired.GeneratedMSBuildEditorConfig.editorconfig
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net8.0\TrapWired.AssemblyInfoInputs.cache
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net8.0\TrapWired.AssemblyInfo.cs
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net8.0\TrapWired.csproj.CoreCompileInputs.cache
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net8.0\TrapWired.dll
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net8.0\refint\TrapWired.dll
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net8.0\TrapWired.pdb
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net8.0\ref\TrapWired.dll

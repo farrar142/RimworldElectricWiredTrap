@@ -1,0 +1,5 @@
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net5.0\TrapWired.csproj.AssemblyReference.cache
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net5.0\TrapWired.GeneratedMSBuildEditorConfig.editorconfig
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net5.0\TrapWired.AssemblyInfoInputs.cache
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net5.0\TrapWired.AssemblyInfo.cs
+D:\RimWorld\Mods\electricwiretrap\Source\TrapWired\TrapWired\obj\Debug\net5.0\TrapWired.csproj.CoreCompileInputs.cache

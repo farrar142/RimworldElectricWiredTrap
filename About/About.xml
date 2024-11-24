@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Electric Wire Trap</name>
+    <author>Farrar142</author>
+    <packageId>Farrar142.ElectricWireTrap</packageId>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+    <description>
+        전기로 점화하는 트랩
+    </description>
+</ModMetaData>
