@@ -47,7 +47,7 @@
     <ThingDef ParentName="TrapWireIEDBase">
       <defName>TrapIED_WireHighExplosive</defName>
       <label>도전선 고폭탄 지뢰</label>
-      <description>한쌍의 고폭탄과 전기로 격발되는 신관을 장착한 지뢰입니다. 외부 충격 혹은 전기로한 작동합니다.</description>
+      <description>한쌍의 고폭탄과 전기로 격발되는 신관을 장착한 지뢰입니다. 외부 충격 혹은 전기로만 작동합니다.</description>
       <graphicData>
         <texPath>Things/Building/Security/IEDHighExplosive</texPath>
       </graphicData>
@@ -82,7 +82,7 @@
     <ThingDef ParentName="TrapWireIEDBase">
       <defName>TrapIED_WireIncendiary</defName>
       <label>도전선 소이탄 지뢰</label>
-      <description>한쌍의 소이탄과 전기로 격발되는 신관을 장착한 지뢰입니다. 외부 충격 혹은 전기로한 작동합니다.</description>
+      <description>한쌍의 소이탄과 전기로 격발되는 신관을 장착한 지뢰입니다. 외부 충격 혹은 전기로만 작동합니다.</description>
       <graphicData>
         <texPath>Things/Building/Security/IEDIncendiary</texPath>
       </graphicData>
@@ -118,7 +118,7 @@
     <ThingDef ParentName="TrapWireIEDBase">
       <defName>TrapIED_WireEMP</defName>
       <label>도전선 펄스 지뢰</label>
-      <description>한쌍의 EMP탄과 전기로 격발되는 신관을 장착한 지뢰입니다. 외부 충격 혹은 전기로한 작동합니다.</description>
+      <description>한쌍의 EMP탄과 전기로 격발되는 신관을 장착한 지뢰입니다. 외부 충격 혹은 전기로만 작동합니다.</description>
       <graphicData>
         <texPath>Things/Building/Security/IEDEMP</texPath>
       </graphicData>
@@ -154,7 +154,7 @@
     <ThingDef ParentName="TrapWireIEDBase">
       <defName>TrapIED_WireSmoke</defName>
       <label>도전선 연막 지뢰</label>
-      <description>한쌍의 연막탄과 전기로 격발되는 신관을 장착한 지뢰입니다. 외부 충격 혹은 전기로한 작동합니다.</description>
+      <description>한쌍의 연막탄과 전기로 격발되는 신관을 장착한 지뢰입니다. 외부 충격 혹은 전기로만 작동합니다.</description>
       <graphicData>
         <texPath>Things/Building/Security/IEDSmoke</texPath>
       </graphicData>
@@ -191,7 +191,7 @@
     <ThingDef ParentName="TrapWireIEDBase">
       <defName>TrapIED_WireFirefoam</defName>
       <label>도전선 소방거품 지뢰</label>
-      <description>한쌍의 소방거품탄과 전기로 격발되는 신관을 장착한 지뢰입니다. 외부 충격 혹은 전기로한 작동합니다.</description>
+      <description>한쌍의 소방거품탄과 전기로 격발되는 신관을 장착한 지뢰입니다. 외부 충격 혹은 전기로만 작동합니다.</description>
       <graphicData>
         <texPath>Things/Building/Security/IEDFirefoam</texPath>
       </graphicData>
@@ -231,7 +231,7 @@
     <ThingDef ParentName="TrapWireIEDBase">
       <defName>TrapIED_WireAntigrainWarhead</defName>
       <label>도전선 반물질 지뢰</label>
-      <description>반물질탄과 전기로 격발되는 신관을 장착한 지뢰입니다. 외부 충격 혹은 전기로한 작동합니다.</description>
+      <description>반물질탄과 전기로 격발되는 신관을 장착한 지뢰입니다. 외부 충격 혹은 전기로만 작동합니다.</description>
       <graphicData>
         <texPath>Things/Building/Security/IEDAntigrainWarhead</texPath>
       </graphicData>
